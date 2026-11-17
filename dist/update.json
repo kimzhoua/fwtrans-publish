@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 2,\n  \"versionName\": \"1.0.1\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/fwtrans-publish/main/dist/app-1.0.1.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/fwtrans-publish/main/dist/app-1.0.1.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/fwtrans-publish/main/dist/update.json\",\n  \"sha256\": \"5aa59a7c7f09d767a7dc70e440d76801d5c1144b5c671664b226d3eaf72204db\",\n  \"notes\": \"迁移到独立发布仓库 fwtrans-publish；版本 1.0.1\"\n}",
+  "sig": "RvyyZxHaOKxczVXKUBCj0dz610Hwd6CW6e00ubCxUNTFaTLShEA+qkl3CZZSjM/6z9bHx71e5GWtbsoRjYB9oDTMYCqRZ47wzUWboI6U+vVWTps5lGZAdYbxhXwhiLTL+mO/vWK32GOQT7BnSHTzjHxqikqryXUJ+f2aTNiJz/vuzDmMomZYIG4RoHvLOBxjxUQTZbHlZNzOCvIR/nw1/z3JzGLOok1Ri0UiSPT9B80XdHPkEEYs60zghQH1/WjSldVdK/EVp2aes+UmQflfrrWqmM/5Ry9hHuEYmLFiDEK3BKSjvhc787xU3z+yjk4AnLWZ1tYHvrHSIuNRTzqtbA=="
+}
